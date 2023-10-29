@@ -1,0 +1,2 @@
+C:\Users\Praktikum\source\repos\filesDemo\x64\Debug\filesDemo.exe
+D:\all\c++\filesDemo\x64\Debug\filesDemo.exe
